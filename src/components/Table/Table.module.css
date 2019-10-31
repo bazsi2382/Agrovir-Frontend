@@ -1,0 +1,8 @@
+.Table{
+    margin: 5% 10%;
+    width: 80%;
+}
+
+thead{
+    background-color: rgb(34, 136, 253);
+}
